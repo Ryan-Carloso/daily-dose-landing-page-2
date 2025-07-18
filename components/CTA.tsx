@@ -27,7 +27,7 @@ export default function CTA() {
             aria-label="Download DailyDose on the App Store"
           >
             <Image
-              src="/icon.png?height=180&width=180"
+              src="/icon.png"
               alt="Download DailyDose supplement tracker on the App Store"
               width={60}
               height={60}

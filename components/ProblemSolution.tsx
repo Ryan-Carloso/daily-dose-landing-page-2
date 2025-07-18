@@ -16,7 +16,7 @@ export default function ProblemSolution() {
           </div>
           <div>
             <Image
-              src="/icon.png?height=400&width=500"
+              src="/icon.png"
               alt="Person successfully taking daily supplements with DailyDose iPhone app reminders for whey protein and vitamins"
               width={500}
               height={400}

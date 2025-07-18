@@ -24,7 +24,7 @@ export default function Hero() {
           </div>
           <div className="hero-image">
             <Image
-              src="/icon.png?height=600&width=300"
+              src="/icon.png"
               alt="DailyDose iOS app showing supplement tracking interface with whey protein and creatine reminders"
               width={300}
               height={600}
